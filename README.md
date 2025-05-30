@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=millionsouls&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=html,css" height="300"/>
-      </td>
-      <td>
-        <img src="assets/bongo-cat-typing.gif" height="300"/>
-      </td>
-    </tr>
-  </table>
-</p>
+<table align=center border=0px>
+  <tr>
+    <td>
+      <div align=right>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=millionsouls&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=html,css">
+      </div>
+    </td>
+    <td>
+      <div align=right><img src="assets/bongo-cat-typing.gif" height=190>
+    </td>
+  </tr>
+</table>
