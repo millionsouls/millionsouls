@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 <div align=center>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=millionsouls&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=html,css"> 
-      <img src="assets/bongo-cat-typing.gif" height=190 width=190>
 </div>
